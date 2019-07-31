@@ -1,0 +1,4 @@
+pandas
+vega
+altair
+jupyter

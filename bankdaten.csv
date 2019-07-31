@@ -1,0 +1,629 @@
+,Buchungstag,Betrag,Kategorie
+0,2019-06-28,3.0,Dienstleistungen & Gebühren
+1,2019-06-28,8.15,Nahrung & Verbrauchsartikel
+2,2019-06-28,11.73,Nahrung & Verbrauchsartikel
+3,2019-06-28,31.65,Nahrung & Verbrauchsartikel
+4,2019-06-27,11.44,Nahrung & Verbrauchsartikel
+5,2019-06-26,13.38,Nahrung & Verbrauchsartikel
+6,2019-06-26,26.77,Nahrung & Verbrauchsartikel
+7,2019-06-24,260.0,Miete & laufende Verträge
+8,2019-06-21,4.5,Transport
+9,2019-06-21,4.5,Transport
+10,2019-06-21,52.3,Transport
+11,2019-06-19,5.35,Nahrung & Verbrauchsartikel
+12,2019-06-19,9.75,Nahrung & Verbrauchsartikel
+13,2019-06-19,51.3,Transport
+14,2019-06-18,1.89,Nahrung & Verbrauchsartikel
+15,2019-06-18,17.89,Kleidung & Accessoires
+16,2019-06-18,6.94,Nahrung & Verbrauchsartikel
+17,2019-06-18,3.29,Technik
+18,2019-06-18,19.0,Unterhaltung
+19,2019-06-18,7.12,Nahrung & Verbrauchsartikel
+20,2019-06-18,25.79,Technik
+21,2019-06-18,34.36,Technik
+22,2019-06-17,200.0,Unbekannt & Bargeld
+23,2019-06-17,5.99,Technik
+24,2019-06-17,48.0,Transport
+25,2019-06-14,27.76,Miete & laufende Verträge
+26,2019-06-14,9.15,Nahrung & Verbrauchsartikel
+27,2019-06-13,10.0,Miete & laufende Verträge
+28,2019-06-12,5.7,Nahrung & Verbrauchsartikel
+29,2019-06-12,12.14,Nahrung & Verbrauchsartikel
+30,2019-06-11,10.0,Miete & laufende Verträge
+31,2019-06-11,0.8,Nahrung & Verbrauchsartikel
+32,2019-06-11,2.77,Transport
+33,2019-06-11,12.99,Transport
+34,2019-06-11,3.6,Transport
+35,2019-06-11,33.0,Miete & laufende Verträge
+36,2019-06-07,48.9,Unterhaltung
+37,2019-06-06,147.0,Transport
+38,2019-06-04,14.74,Nahrung & Verbrauchsartikel
+39,2019-06-04,44.89,Miete & laufende Verträge
+40,2019-06-04,6.02,Nahrung & Verbrauchsartikel
+41,2019-06-04,13.0,Kleidung & Accessoires
+42,2019-06-04,7.99,Nahrung & Verbrauchsartikel
+43,2019-06-03,6.82,Nahrung & Verbrauchsartikel
+44,2019-05-31,3.0,Dienstleistungen & Gebühren
+45,2019-05-31,5.24,Nahrung & Verbrauchsartikel
+46,2019-05-31,407.0,Unbekannt & Bargeld
+47,2019-05-31,104.21,Unbekannt & Bargeld
+48,2019-05-31,13.01,Nahrung & Verbrauchsartikel
+49,2019-05-28,90.0,Unbekannt & Bargeld
+50,2019-05-28,28.86,Nahrung & Verbrauchsartikel
+51,2019-05-28,1.92,Nahrung & Verbrauchsartikel
+52,2019-05-28,2.06,Nahrung & Verbrauchsartikel
+53,2019-05-28,3.76,Nahrung & Verbrauchsartikel
+54,2019-05-27,3.05,Nahrung & Verbrauchsartikel
+55,2019-05-27,6.49,Unterhaltung
+56,2019-05-24,260.0,Miete & laufende Verträge
+57,2019-05-24,26.43,Nahrung & Verbrauchsartikel
+58,2019-05-23,33.9,Nahrung & Verbrauchsartikel
+59,2019-05-22,3.78,Nahrung & Verbrauchsartikel
+60,2019-05-22,29.95,Kleidung & Accessoires
+61,2019-05-22,144.72,Unterhaltung
+62,2019-05-22,55.0,Unterhaltung
+63,2019-05-21,19.32,Nahrung & Verbrauchsartikel
+64,2019-05-21,15.98,Technik
+65,2019-05-20,5.6,Transport
+66,2019-05-15,38.14,Miete & laufende Verträge
+67,2019-05-15,50.9,Transport
+68,2019-05-13,3.49,Nahrung & Verbrauchsartikel
+69,2019-05-13,4.62,Nahrung & Verbrauchsartikel
+70,2019-05-13,33.0,Nahrung & Verbrauchsartikel
+71,2019-05-10,13.7,Nahrung & Verbrauchsartikel
+72,2019-05-10,5.13,Nahrung & Verbrauchsartikel
+73,2019-05-10,10.0,Miete & laufende Verträge
+74,2019-05-09,100.0,Unbekannt & Bargeld
+75,2019-05-09,7.02,Nahrung & Verbrauchsartikel
+76,2019-05-09,7.06,Nahrung & Verbrauchsartikel
+77,2019-05-09,3.76,Nahrung & Verbrauchsartikel
+78,2019-05-09,33.0,Miete & laufende Verträge
+79,2019-05-09,4.77,Technik
+80,2019-05-08,2.28,Nahrung & Verbrauchsartikel
+81,2019-05-08,17.86,Kleidung & Accessoires
+82,2019-05-07,17.89,Technik
+83,2019-05-07,16.0,Nahrung & Verbrauchsartikel
+84,2019-05-07,25.99,Nahrung & Verbrauchsartikel
+85,2019-05-07,124.86,Nahrung & Verbrauchsartikel
+86,2019-05-07,34.93,Kleidung & Accessoires
+87,2019-05-07,5.99,Nahrung & Verbrauchsartikel
+88,2019-05-07,360.34,Unterhaltung
+89,2019-05-07,46.76,Nahrung & Verbrauchsartikel
+90,2019-05-07,10.8,Kleidung & Accessoires
+91,2019-05-07,15.85,Kleidung & Accessoires
+92,2019-05-07,19.7,Kleidung & Accessoires
+93,2019-05-06,5.76,Nahrung & Verbrauchsartikel
+94,2019-05-06,5.49,Nahrung & Verbrauchsartikel
+95,2019-05-06,900.0,Unbekannt & Bargeld
+96,2019-05-03,10.0,Miete & laufende Verträge
+97,2019-05-03,35.0,Miete & laufende Verträge
+98,2019-05-03,44.89,Miete & laufende Verträge
+99,2019-05-02,22.36,Nahrung & Verbrauchsartikel
+100,2019-05-02,35.86,Kleidung & Accessoires
+101,2019-05-02,9.9,Miete & laufende Verträge
+102,2019-05-02,11.79,Kleidung & Accessoires
+103,2019-05-02,39.22,Technik
+104,2019-05-02,17.79,Technik
+105,2019-04-30,3.5,Dienstleistungen & Gebühren
+106,2019-04-30,18.03,Technik
+107,2019-04-30,12.94,Technik
+108,2019-04-30,38.89,Technik
+109,2019-04-30,31.78,Kleidung & Accessoires
+110,2019-04-29,37.99,Kleidung & Accessoires
+111,2019-04-26,144.0,Technik
+112,2019-04-26,109.25,Technik
+113,2019-04-24,6.1,Nahrung & Verbrauchsartikel
+114,2019-04-24,22.41,Nahrung & Verbrauchsartikel
+115,2019-04-24,260.0,Miete & laufende Verträge
+116,2019-04-23,92.0,Dienstleistungen & Gebühren
+117,2019-04-18,5.6,Transport
+118,2019-04-18,15.0,Miete & laufende Verträge
+119,2019-04-17,510.99,Technik
+120,2019-04-17,2.98,Nahrung & Verbrauchsartikel
+121,2019-04-17,42.0,Kleidung & Accessoires
+122,2019-04-16,3.46,Nahrung & Verbrauchsartikel
+123,2019-04-16,11.98,Unterhaltung
+124,2019-04-16,29.06,Nahrung & Verbrauchsartikel
+125,2019-04-16,17.99,Möbel & Einrichtung
+126,2019-04-16,53.14,Möbel & Einrichtung
+127,2019-04-16,30.15,Technik
+128,2019-04-16,99.0,Möbel & Einrichtung
+129,2019-04-16,13.99,Unterhaltung
+130,2019-04-15,2.1,Nahrung & Verbrauchsartikel
+131,2019-04-15,129.95,Kleidung & Accessoires
+132,2019-04-15,25.09,Miete & laufende Verträge
+133,2019-04-12,100.0,Unbekannt & Bargeld
+134,2019-04-12,4.19,Nahrung & Verbrauchsartikel
+135,2019-04-12,4.8,Unterhaltung
+136,2019-04-12,11.0,Unterhaltung
+137,2019-04-12,7.29,Kleidung & Accessoires
+138,2019-04-12,18.9,Kleidung & Accessoires
+139,2019-04-12,36.69,Technik
+140,2019-04-12,11.9,Kleidung & Accessoires
+141,2019-04-11,6.42,Nahrung & Verbrauchsartikel
+142,2019-04-10,26.45,Nahrung & Verbrauchsartikel
+143,2019-04-10,10.0,Miete & laufende Verträge
+144,2019-04-10,99.66,Möbel & Einrichtung
+145,2019-04-10,33.0,Miete & laufende Verträge
+146,2019-04-10,10.0,Dienstleistungen & Gebühren
+147,2019-04-10,200.0,Unterhaltung
+148,2019-04-08,20.0,Unbekannt & Bargeld
+149,2019-04-08,99.0,Unterhaltung
+150,2019-04-08,99.0,Unterhaltung
+151,2019-04-05,1.54,Nahrung & Verbrauchsartikel
+152,2019-04-05,16.79,Technik
+153,2019-04-05,5.6,Transport
+154,2019-04-04,5.6,Transport
+155,2019-04-04,108.3,Transport
+156,2019-04-04,46.95,Kleidung & Accessoires
+157,2019-04-03,7.97,Nahrung & Verbrauchsartikel
+158,2019-04-03,2.8,Transport
+159,2019-04-03,11.17,Nahrung & Verbrauchsartikel
+160,2019-04-03,9.0,Dienstleistungen & Gebühren
+161,2019-04-03,62.0,Transport
+162,2019-04-03,84.0,Miete & laufende Verträge
+163,2019-04-03,41.99,Möbel & Einrichtung
+164,2019-04-02,44.89,Miete & laufende Verträge
+165,2019-04-01,5.97,Nahrung & Verbrauchsartikel
+166,2019-03-29,3.0,Dienstleistungen & Gebühren
+167,2019-03-29,6.9,Transport
+168,2019-03-29,34.46,Kleidung & Accessoires
+169,2019-03-28,100.0,Unbekannt & Bargeld
+170,2019-03-28,5.6,Transport
+171,2019-03-28,27.4,Technik
+172,2019-03-27,75.0,Dienstleistungen & Gebühren
+173,2019-03-27,345.0,Dienstleistungen & Gebühren
+174,2019-03-26,3.58,Nahrung & Verbrauchsartikel
+175,2019-03-26,31.58,Kleidung & Accessoires
+176,2019-03-26,41.75,Technik
+177,2019-03-25,3.58,Technik
+178,2019-03-25,25.74,Nahrung & Verbrauchsartikel
+179,2019-03-25,260.0,Miete & laufende Verträge
+180,2019-03-22,10.93,Möbel & Einrichtung
+181,2019-03-21,44.9,Nahrung & Verbrauchsartikel
+182,2019-03-21,11.87,Kleidung & Accessoires
+183,2019-03-21,1.99,Nahrung & Verbrauchsartikel
+184,2019-03-21,7.04,Nahrung & Verbrauchsartikel
+185,2019-03-19,5.6,Transport
+186,2019-03-19,77.5,Technik
+187,2019-03-18,25.23,Miete & laufende Verträge
+188,2019-03-14,13.99,Unterhaltung
+189,2019-03-13,29.99,Kleidung & Accessoires
+190,2019-03-12,90.0,Kleidung & Accessoires
+191,2019-03-12,53.14,Nahrung & Verbrauchsartikel
+192,2019-03-12,118.74,Kleidung & Accessoires
+193,2019-03-12,40.7,Nahrung & Verbrauchsartikel
+194,2019-03-12,10.0,Miete & laufende Verträge
+195,2019-03-12,10.1,Kleidung & Accessoires
+196,2019-03-11,11.43,Technik
+197,2019-03-08,33.0,Miete & laufende Verträge
+198,2019-03-07,208.75,Unterhaltung
+199,2019-03-07,90.0,Unterhaltung
+200,2019-03-07,47.98,Technik
+201,2019-03-07,10.1,Kleidung & Accessoires
+202,2019-03-07,42.0,Kleidung & Accessoires
+203,2019-03-05,44.89,Miete & laufende Verträge
+204,2019-03-04,44.8,Transport
+205,2019-03-04,84.0,Miete & laufende Verträge
+206,2019-02-28,3.0,Dienstleistungen & Gebühren
+207,2019-02-28,15.0,Dienstleistungen & Gebühren
+208,2019-02-28,9.98,Dienstleistungen & Gebühren
+209,2019-02-27,2.94,Nahrung & Verbrauchsartikel
+210,2019-02-27,1.4,Nahrung & Verbrauchsartikel
+211,2019-02-27,13.8,Kleidung & Accessoires
+212,2019-02-27,25.98,Kleidung & Accessoires
+213,2019-02-26,6.62,Nahrung & Verbrauchsartikel
+214,2019-02-26,39.0,Unterhaltung
+215,2019-02-25,3.5,Nahrung & Verbrauchsartikel
+216,2019-02-25,1.57,Nahrung & Verbrauchsartikel
+217,2019-02-25,25.74,Nahrung & Verbrauchsartikel
+218,2019-02-25,260.0,Miete & laufende Verträge
+219,2019-02-25,19.98,Kleidung & Accessoires
+220,2019-02-25,4.8,Technik
+221,2019-02-22,250.0,Unbekannt & Bargeld
+222,2019-02-22,250.0,Unbekannt & Bargeld
+223,2019-02-22,13.0,Nahrung & Verbrauchsartikel
+224,2019-02-22,75.9,Unterhaltung
+225,2019-02-22,70.0,Unterhaltung
+226,2019-02-21,20.7,Nahrung & Verbrauchsartikel
+227,2019-02-21,2.8,Transport
+228,2019-02-21,0.89,Nahrung & Verbrauchsartikel
+229,2019-02-20,22.0,Unterhaltung
+230,2019-02-20,7.49,Nahrung & Verbrauchsartikel
+231,2019-02-19,83.45,Transport
+232,2019-02-19,382.25,Technik
+233,2019-02-19,2.04,Nahrung & Verbrauchsartikel
+234,2019-02-18,130.0,Unbekannt & Bargeld
+235,2019-02-18,3.98,Nahrung & Verbrauchsartikel
+236,2019-02-15,25.0,Miete & laufende Verträge
+237,2019-02-15,6.9,Unterhaltung
+238,2019-02-14,13.99,Unterhaltung
+239,2019-02-13,4.8,Unterhaltung
+240,2019-02-13,9.78,Nahrung & Verbrauchsartikel
+241,2019-02-13,17.49,Kleidung & Accessoires
+242,2019-02-13,251.0,Unterhaltung
+243,2019-02-12,50.0,Unterhaltung
+244,2019-02-12,1.85,Nahrung & Verbrauchsartikel
+245,2019-02-12,10.0,Miete & laufende Verträge
+246,2019-02-12,69.32,Kleidung & Accessoires
+247,2019-02-11,5.6,Transport
+248,2019-02-11,2.8,Transport
+249,2019-02-11,6.9,Möbel & Einrichtung
+250,2019-02-11,2.51,Kleidung & Accessoires
+251,2019-02-08,150.0,Unbekannt & Bargeld
+252,2019-02-08,230.0,Dienstleistungen & Gebühren
+253,2019-02-08,89.99,Möbel & Einrichtung
+254,2019-02-08,30.98,Nahrung & Verbrauchsartikel
+255,2019-02-08,43.08,Möbel & Einrichtung
+256,2019-02-08,33.0,Miete & laufende Verträge
+257,2019-02-06,5.95,Kleidung & Accessoires
+258,2019-02-05,24.41,Kleidung & Accessoires
+259,2019-02-05,104.89,Technik
+260,2019-02-05,59.0,Kleidung & Accessoires
+261,2019-02-05,39.9,Kleidung & Accessoires
+262,2019-02-04,19.63,Nahrung & Verbrauchsartikel
+263,2019-02-04,44.89,Miete & laufende Verträge
+264,2019-02-04,1.05,Nahrung & Verbrauchsartikel
+265,2019-02-01,12.0,Dienstleistungen & Gebühren
+266,2019-02-01,84.0,Miete & laufende Verträge
+267,2019-02-01,15.67,Nahrung & Verbrauchsartikel
+268,2019-01-31,3.0,Dienstleistungen & Gebühren
+269,2019-01-30,2.84,Nahrung & Verbrauchsartikel
+270,2019-01-30,4.95,Nahrung & Verbrauchsartikel
+271,2019-01-29,2.48,Nahrung & Verbrauchsartikel
+272,2019-01-29,58.66,Technik
+273,2019-01-29,25.25,Nahrung & Verbrauchsartikel
+274,2019-01-28,100.0,Unbekannt & Bargeld
+275,2019-01-28,0.7,Nahrung & Verbrauchsartikel
+276,2019-01-28,3.48,Nahrung & Verbrauchsartikel
+277,2019-01-28,5.6,Transport
+278,2019-01-28,27.52,Miete & laufende Verträge
+279,2019-01-24,2.8,Transport
+280,2019-01-24,260.0,Miete & laufende Verträge
+281,2019-01-24,2.3,Nahrung & Verbrauchsartikel
+282,2019-01-23,1.0,Nahrung & Verbrauchsartikel
+283,2019-01-23,66.04,Nahrung & Verbrauchsartikel
+284,2019-01-22,8.53,Kleidung & Accessoires
+285,2019-01-22,1.99,Nahrung & Verbrauchsartikel
+286,2019-01-22,34.86,Technik
+287,2019-01-22,7.34,Nahrung & Verbrauchsartikel
+288,2019-01-22,12.3,Nahrung & Verbrauchsartikel
+289,2019-01-22,52.98,Möbel & Einrichtung
+290,2019-01-22,4.95,Kleidung & Accessoires
+291,2019-01-21,17.0,Nahrung & Verbrauchsartikel
+292,2019-01-21,14.45,Nahrung & Verbrauchsartikel
+293,2019-01-21,2.8,Transport
+294,2019-01-21,9.49,Dienstleistungen & Gebühren
+295,2019-01-21,99.9,Kleidung & Accessoires
+296,2019-01-21,24.85,Kleidung & Accessoires
+297,2019-01-18,0.63,Nahrung & Verbrauchsartikel
+298,2019-01-17,71.21,Technik
+299,2019-01-17,65.98,Technik
+300,2019-01-17,0.05,Nahrung & Verbrauchsartikel
+301,2019-01-16,1.37,Kleidung & Accessoires
+302,2019-01-15,25.96,Miete & laufende Verträge
+303,2019-01-15,40.94,Kleidung & Accessoires
+304,2019-01-15,13.99,Unterhaltung
+305,2019-01-15,89.6,Transport
+306,2019-01-14,5.6,Transport
+307,2019-01-14,18.3,Technik
+308,2019-01-14,23.0,Möbel & Einrichtung
+309,2019-01-14,8.95,Kleidung & Accessoires
+310,2019-01-14,24.98,Kleidung & Accessoires
+311,2019-01-14,0.35,Nahrung & Verbrauchsartikel
+312,2019-01-11,70.0,Dienstleistungen & Gebühren
+313,2019-01-10,33.0,Miete & laufende Verträge
+314,2019-01-10,10.0,Miete & laufende Verträge
+315,2019-01-10,34.49,Möbel & Einrichtung
+316,2019-01-09,24.4,Technik
+317,2019-01-09,50.0,Dienstleistungen & Gebühren
+318,2019-01-09,28.07,Kleidung & Accessoires
+319,2019-01-09,68.91,Kleidung & Accessoires
+320,2019-01-09,11.99,Möbel & Einrichtung
+321,2019-01-09,99.99,Möbel & Einrichtung
+322,2019-01-08,39.9,Technik
+323,2019-01-08,6.94,Kleidung & Accessoires
+324,2019-01-08,11.98,Kleidung & Accessoires
+325,2019-01-08,229.9,Technik
+326,2019-01-08,138.47,Möbel & Einrichtung
+327,2019-01-08,9.99,Kleidung & Accessoires
+328,2019-01-07,47.98,Möbel & Einrichtung
+329,2019-01-07,169.9,Kleidung & Accessoires
+330,2019-01-04,44.89,Miete & laufende Verträge
+331,2019-01-03,84.0,Miete & laufende Verträge
+332,2019-01-02,59.29,Nahrung & Verbrauchsartikel
+333,2019-01-02,32.57,Nahrung & Verbrauchsartikel
+334,2019-01-02,41.78,Nahrung & Verbrauchsartikel
+335,2019-01-02,3.38,Nahrung & Verbrauchsartikel
+336,2018-12-28,3.0,Dienstleistungen & Gebühren
+337,2018-12-28,12.1,Unterhaltung
+338,2018-12-27,53.36,Transport
+339,2018-12-27,7.5,Nahrung & Verbrauchsartikel
+340,2018-12-27,3.58,Nahrung & Verbrauchsartikel
+341,2018-12-27,11.22,Nahrung & Verbrauchsartikel
+342,2018-12-27,1.51,Nahrung & Verbrauchsartikel
+343,2018-12-27,1.5,Transport
+344,2018-12-27,48.0,Miete & laufende Verträge
+345,2018-12-27,260.0,Miete & laufende Verträge
+346,2018-12-20,16.2,Nahrung & Verbrauchsartikel
+347,2018-12-20,6.25,Kleidung & Accessoires
+348,2018-12-20,12.25,Kleidung & Accessoires
+349,2018-12-20,22.99,Kleidung & Accessoires
+350,2018-12-19,2.75,Nahrung & Verbrauchsartikel
+351,2018-12-19,3.79,Nahrung & Verbrauchsartikel
+352,2018-12-19,22.0,Unterhaltung
+353,2018-12-19,12.59,Technik
+354,2018-12-18,10.53,Nahrung & Verbrauchsartikel
+355,2018-12-17,5.4,Transport
+356,2018-12-17,34.93,Möbel & Einrichtung
+357,2018-12-14,8.0,Nahrung & Verbrauchsartikel
+358,2018-12-14,26.26,Miete & laufende Verträge
+359,2018-12-14,33.28,Technik
+360,2018-12-14,13.99,Unterhaltung
+361,2018-12-13,2.84,Nahrung & Verbrauchsartikel
+362,2018-12-12,28.8,Dienstleistungen & Gebühren
+363,2018-12-12,150.0,Technik
+364,2018-12-11,5.01,Nahrung & Verbrauchsartikel
+365,2018-12-11,1.5,Transport
+366,2018-12-11,19.63,Nahrung & Verbrauchsartikel
+367,2018-12-11,1.0,Nahrung & Verbrauchsartikel
+368,2018-12-11,10.0,Miete & laufende Verträge
+369,2018-12-11,57.97,Nahrung & Verbrauchsartikel
+370,2018-12-11,12.0,Dienstleistungen & Gebühren
+371,2018-12-10,2.7,Transport
+372,2018-12-10,5.4,Transport
+373,2018-12-10,33.0,Miete & laufende Verträge
+374,2018-12-10,16.49,Kleidung & Accessoires
+375,2018-12-07,35.89,Transport
+376,2018-12-07,6.79,Nahrung & Verbrauchsartikel
+377,2018-12-06,4.6,Nahrung & Verbrauchsartikel
+378,2018-12-06,154.15,Transport
+379,2018-12-06,84.0,Miete & laufende Verträge
+380,2018-12-06,23.0,Nahrung & Verbrauchsartikel
+381,2018-12-06,0.29,Nahrung & Verbrauchsartikel
+382,2018-12-06,2.68,Nahrung & Verbrauchsartikel
+383,2018-12-06,22.98,Kleidung & Accessoires
+384,2018-12-06,18.0,Kleidung & Accessoires
+385,2018-12-06,14.53,Nahrung & Verbrauchsartikel
+386,2018-12-06,15.0,Kleidung & Accessoires
+387,2018-12-05,19.99,Kleidung & Accessoires
+388,2018-12-05,29.95,Technik
+389,2018-12-05,13.5,Technik
+390,2018-12-04,1.29,Nahrung & Verbrauchsartikel
+391,2018-12-04,8.26,Nahrung & Verbrauchsartikel
+392,2018-12-04,81.96,Möbel & Einrichtung
+393,2018-12-04,24.78,Möbel & Einrichtung
+394,2018-12-03,10.5,Unterhaltung
+395,2018-12-03,44.89,Miete & laufende Verträge
+396,2018-12-03,2.99,Nahrung & Verbrauchsartikel
+397,2018-12-03,10.9,Nahrung & Verbrauchsartikel
+398,2018-12-03,88.65,Unterhaltung
+399,2018-12-03,5.0,Unbekannt & Bargeld
+400,2018-11-30,3.0,Dienstleistungen & Gebühren
+401,2018-11-30,8.6,Transport
+402,2018-11-30,15.0,Dienstleistungen & Gebühren
+403,2018-11-30,1.29,Nahrung & Verbrauchsartikel
+404,2018-11-30,34.89,Kleidung & Accessoires
+405,2018-11-30,29.97,Kleidung & Accessoires
+406,2018-11-30,127.45,Transport
+407,2018-11-29,1.39,Nahrung & Verbrauchsartikel
+408,2018-11-29,35.0,Miete & laufende Verträge
+409,2018-11-29,10.0,Miete & laufende Verträge
+410,2018-11-28,129.0,Möbel & Einrichtung
+411,2018-11-28,0.6,Nahrung & Verbrauchsartikel
+412,2018-11-28,3.59,Unterhaltung
+413,2018-11-28,17.87,Unbekannt & Bargeld
+414,2018-11-28,32.99,Kleidung & Accessoires
+415,2018-11-27,0.2,Nahrung & Verbrauchsartikel
+416,2018-11-27,0.99,Nahrung & Verbrauchsartikel
+417,2018-11-27,349.99,Technik
+418,2018-11-27,29.49,Möbel & Einrichtung
+419,2018-11-27,19.52,Möbel & Einrichtung
+420,2018-11-27,29.68,Nahrung & Verbrauchsartikel
+421,2018-11-27,49.88,Kleidung & Accessoires
+422,2018-11-26,5.4,Transport
+423,2018-11-26,260.0,Miete & laufende Verträge
+424,2018-11-23,70.3,Transport
+425,2018-11-22,3.78,Nahrung & Verbrauchsartikel
+426,2018-11-20,4.0,Nahrung & Verbrauchsartikel
+427,2018-11-20,89.6,Transport
+428,2018-11-19,80.0,Unbekannt & Bargeld
+429,2018-11-19,11.5,Unterhaltung
+430,2018-11-19,5.4,Transport
+431,2018-11-19,11.78,Nahrung & Verbrauchsartikel
+432,2018-11-16,62.8,Transport
+433,2018-11-15,27.89,Miete & laufende Verträge
+434,2018-11-15,47.52,Kleidung & Accessoires
+435,2018-11-14,6.9,Nahrung & Verbrauchsartikel
+436,2018-11-14,59.95,Kleidung & Accessoires
+437,2018-11-14,13.99,Unterhaltung
+438,2018-11-13,3.01,Kleidung & Accessoires
+439,2018-11-13,27.89,Kleidung & Accessoires
+440,2018-11-13,8.7,Nahrung & Verbrauchsartikel
+441,2018-11-12,127.3,Kleidung & Accessoires
+442,2018-11-12,50.0,Unbekannt & Bargeld
+443,2018-11-12,5.4,Transport
+444,2018-11-12,10.0,Miete & laufende Verträge
+445,2018-11-12,6.94,Kleidung & Accessoires
+446,2018-11-09,0.99,Nahrung & Verbrauchsartikel
+447,2018-11-09,9.38,Nahrung & Verbrauchsartikel
+448,2018-11-08,33.0,Miete & laufende Verträge
+449,2018-11-07,60.0,Unbekannt & Bargeld
+450,2018-11-07,137.6,Unterhaltung
+451,2018-11-07,286.0,Kleidung & Accessoires
+452,2018-11-07,6.88,Kleidung & Accessoires
+453,2018-11-07,6.26,Nahrung & Verbrauchsartikel
+454,2018-11-06,6.88,Technik
+455,2018-11-06,20.1,Kleidung & Accessoires
+456,2018-11-05,84.0,Miete & laufende Verträge
+457,2018-11-02,69.8,Transport
+458,2018-11-02,44.89,Miete & laufende Verträge
+459,2018-10-31,3.0,Dienstleistungen & Gebühren
+460,2018-10-30,7.92,Technik
+461,2018-10-30,18.67,Nahrung & Verbrauchsartikel
+462,2018-10-29,65.0,Nahrung & Verbrauchsartikel
+463,2018-10-29,10.8,Transport
+464,2018-10-29,0.99,Nahrung & Verbrauchsartikel
+465,2018-10-29,40.0,Unterhaltung
+466,2018-10-26,41.43,Kleidung & Accessoires
+467,2018-10-26,53.88,Kleidung & Accessoires
+468,2018-10-25,14.53,Nahrung & Verbrauchsartikel
+469,2018-10-25,15.94,Technik
+470,2018-10-25,14.99,Technik
+471,2018-10-24,15.0,Unbekannt & Bargeld
+472,2018-10-24,15.66,Unterhaltung
+473,2018-10-24,6.7,Nahrung & Verbrauchsartikel
+474,2018-10-24,100.0,Unbekannt & Bargeld
+475,2018-10-24,260.0,Miete & laufende Verträge
+476,2018-10-22,147.14,Unbekannt & Bargeld
+477,2018-10-22,29.95,Kleidung & Accessoires
+478,2018-10-22,3.59,Technik
+479,2018-10-19,13.99,Nahrung & Verbrauchsartikel
+480,2018-10-19,15.99,Nahrung & Verbrauchsartikel
+481,2018-10-19,18.91,Kleidung & Accessoires
+482,2018-10-18,8.05,Kleidung & Accessoires
+483,2018-10-18,3.5,Kleidung & Accessoires
+484,2018-10-16,25.09,Miete & laufende Verträge
+485,2018-10-16,13.99,Unterhaltung
+486,2018-10-15,42.19,Nahrung & Verbrauchsartikel
+487,2018-10-15,23.95,Kleidung & Accessoires
+488,2018-10-15,39.84,Kleidung & Accessoires
+489,2018-10-15,16.5,Technik
+490,2018-10-12,22.4,Transport
+491,2018-10-12,248.81,Kleidung & Accessoires
+492,2018-10-10,10.0,Miete & laufende Verträge
+493,2018-10-10,42.82,Dienstleistungen & Gebühren
+494,2018-10-10,33.0,Miete & laufende Verträge
+495,2018-10-09,40.22,Nahrung & Verbrauchsartikel
+496,2018-10-08,45.01,Transport
+497,2018-10-08,14.82,Technik
+498,2018-10-05,2.1,Transport
+499,2018-10-05,2.1,Transport
+500,2018-10-04,100.0,Unbekannt & Bargeld
+501,2018-10-04,35.8,Transport
+502,2018-10-02,84.0,Miete & laufende Verträge
+503,2018-10-02,44.89,Miete & laufende Verträge
+504,2018-10-02,15.0,Unbekannt & Bargeld
+505,2018-10-01,17.2,Nahrung & Verbrauchsartikel
+506,2018-10-01,132.99,Möbel & Einrichtung
+507,2018-09-28,3.0,Dienstleistungen & Gebühren
+508,2018-09-28,40.81,Transport
+509,2018-09-28,44.9,Transport
+510,2018-09-28,48.06,Transport
+511,2018-09-27,37.76,Technik
+512,2018-09-27,13.75,Kleidung & Accessoires
+513,2018-09-25,50.0,Unbekannt & Bargeld
+514,2018-09-25,46.0,Kleidung & Accessoires
+515,2018-09-25,37.31,Kleidung & Accessoires
+516,2018-09-24,13.61,Nahrung & Verbrauchsartikel
+517,2018-09-24,260.0,Miete & laufende Verträge
+518,2018-09-14,100.0,Unbekannt & Bargeld
+519,2018-09-14,13.99,Unterhaltung
+520,2018-09-14,25.0,Miete & laufende Verträge
+521,2018-09-14,2.8,Transport
+522,2018-09-11,55.07,Kleidung & Accessoires
+523,2018-09-11,10.0,Miete & laufende Verträge
+524,2018-09-10,5.4,Transport
+525,2018-09-10,33.0,Miete & laufende Verträge
+526,2018-09-07,62.7,Transport
+527,2018-09-06,5.4,Transport
+528,2018-09-05,84.0,Miete & laufende Verträge
+529,2018-09-05,14.9,Transport
+530,2018-09-04,25.8,Nahrung & Verbrauchsartikel
+531,2018-09-04,5.4,Transport
+532,2018-09-04,150.0,Unbekannt & Bargeld
+533,2018-09-04,44.89,Miete & laufende Verträge
+534,2018-09-03,14.0,Unterhaltung
+535,2018-09-03,7.99,Nahrung & Verbrauchsartikel
+536,2018-08-31,3.0,Dienstleistungen & Gebühren
+537,2018-08-31,8.71,Nahrung & Verbrauchsartikel
+538,2018-08-31,63.21,Kleidung & Accessoires
+539,2018-08-31,4.99,Transport
+540,2018-08-31,14.92,Transport
+541,2018-08-31,23.65,Transport
+542,2018-08-31,33.9,Technik
+543,2018-08-29,226.88,Unterhaltung
+544,2018-08-29,5.4,Transport
+545,2018-08-29,26.3,Technik
+546,2018-08-27,11.5,Nahrung & Verbrauchsartikel
+547,2018-08-27,19.09,Nahrung & Verbrauchsartikel
+548,2018-08-27,2.7,Transport
+549,2018-08-24,260.0,Miete & laufende Verträge
+550,2018-08-24,15.0,Unbekannt & Bargeld
+551,2018-08-24,41.8,Transport
+552,2018-08-24,15.0,Unbekannt & Bargeld
+553,2018-08-22,45.0,Unterhaltung
+554,2018-08-21,59.78,Unterhaltung
+555,2018-08-20,20.16,Nahrung & Verbrauchsartikel
+556,2018-08-20,45.9,Transport
+557,2018-08-16,2.4,Kleidung & Accessoires
+558,2018-08-15,25.0,Miete & laufende Verträge
+559,2018-08-14,2.3,Transport
+560,2018-08-14,13.99,Unterhaltung
+561,2018-08-13,100.0,Unbekannt & Bargeld
+562,2018-08-10,13.56,Kleidung & Accessoires
+563,2018-08-10,10.0,Miete & laufende Verträge
+564,2018-08-09,41.91,Technik
+565,2018-08-09,33.0,Miete & laufende Verträge
+566,2018-08-08,298.39,Nahrung & Verbrauchsartikel
+567,2018-08-07,9.06,Technik
+568,2018-08-06,70.49,Transport
+569,2018-08-06,13.77,Nahrung & Verbrauchsartikel
+570,2018-08-06,2.7,Transport
+571,2018-08-06,14.99,Kleidung & Accessoires
+572,2018-08-02,84.0,Miete & laufende Verträge
+573,2018-08-02,44.89,Miete & laufende Verträge
+574,2018-08-02,250.0,Unterhaltung
+575,2018-08-02,10.0,Unbekannt & Bargeld
+576,2018-07-31,3.0,Dienstleistungen & Gebühren
+577,2018-07-30,30.7,Nahrung & Verbrauchsartikel
+578,2018-07-27,76.8,Kleidung & Accessoires
+579,2018-07-26,18.0,Kleidung & Accessoires
+580,2018-07-24,260.0,Miete & laufende Verträge
+581,2018-07-24,23.39,Kleidung & Accessoires
+582,2018-07-23,100.0,Unbekannt & Bargeld
+583,2018-07-23,11.0,Nahrung & Verbrauchsartikel
+584,2018-07-23,7.64,Nahrung & Verbrauchsartikel
+585,2018-07-23,15.52,Nahrung & Verbrauchsartikel
+586,2018-07-23,32.89,Kleidung & Accessoires
+587,2018-07-20,27.7,Nahrung & Verbrauchsartikel
+588,2018-07-19,14.75,Nahrung & Verbrauchsartikel
+589,2018-07-16,2.7,Transport
+590,2018-07-16,134.6,Transport
+591,2018-07-16,13.99,Unterhaltung
+592,2018-07-13,100.0,Unbekannt & Bargeld
+593,2018-07-13,25.0,Miete & laufende Verträge
+594,2018-07-10,10.0,Miete & laufende Verträge
+595,2018-07-10,33.0,Miete & laufende Verträge
+596,2018-07-09,88.88,Kleidung & Accessoires
+597,2018-07-05,1400.0,Dienstleistungen & Gebühren
+598,2018-07-05,100.0,Unbekannt & Bargeld
+599,2018-07-03,44.89,Miete & laufende Verträge
+600,2018-07-03,84.0,Miete & laufende Verträge
+601,2018-07-02,16.73,Nahrung & Verbrauchsartikel
+602,2018-06-29,3.0,Dienstleistungen & Gebühren
+603,2018-06-29,73.3,Transport
+604,2018-06-26,5.82,Nahrung & Verbrauchsartikel
+605,2018-06-25,260.0,Miete & laufende Verträge
+606,2018-06-20,11.99,Kleidung & Accessoires
+607,2018-06-19,27.93,Technik
+608,2018-06-19,12.0,Technik
+609,2018-06-19,41.05,Transport
+610,2018-06-19,77.28,Unterhaltung
+611,2018-06-19,65.02,Unterhaltung
+612,2018-06-18,9.9,Dienstleistungen & Gebühren
+613,2018-06-15,20.99,Kleidung & Accessoires
+614,2018-06-15,25.0,Miete & laufende Verträge
+615,2018-06-15,10.38,Möbel & Einrichtung
+616,2018-06-15,104.45,Unterhaltung
+617,2018-06-14,13.99,Unterhaltung
+618,2018-06-13,14.99,Möbel & Einrichtung
+619,2018-06-12,44.8,Transport
+620,2018-06-12,10.0,Miete & laufende Verträge
+621,2018-06-08,33.0,Miete & laufende Verträge
+622,2018-06-07,40.0,Unbekannt & Bargeld
+623,2018-06-07,5.0,Dienstleistungen & Gebühren
+624,2018-06-06,72.48,Unbekannt & Bargeld
+625,2018-06-05,44.89,Miete & laufende Verträge
+626,2018-06-04,98.29,Unterhaltung
+627,2018-06-04,84.0,Miete & laufende Verträge
